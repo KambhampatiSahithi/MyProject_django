@@ -1,0 +1,64 @@
+2021-09-20 12:22:15 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 12:24:37 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 12:24:55 INFO - Started execution
+2021-09-20 12:24:58 INFO - renders request that for form to get data
+2021-09-20 12:25:58 INFO - Started getting data from form
+2021-09-20 12:25:58 INFO - Validated required validations
+2021-09-20 12:25:58 INFO - pushed data to userform table
+2021-09-20 12:25:58 INFO - pushed response to response info table
+2021-09-20 12:25:58 INFO - json formatted data is sent to result.html 
+2021-09-20 15:22:47 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 15:22:47 DEBUG - Using proactor: IocpProactor
+2021-09-20 15:26:19 INFO - Started execution
+2021-09-20 15:28:18 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 15:28:18 DEBUG - Using proactor: IocpProactor
+2021-09-20 15:28:19 INFO - Started execution
+2021-09-20 15:28:30 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 15:28:30 DEBUG - Using proactor: IocpProactor
+2021-09-20 15:28:31 INFO - Started execution
+2021-09-20 15:29:24 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 15:29:24 DEBUG - Using proactor: IocpProactor
+2021-09-20 15:29:24 INFO - Started execution
+2021-09-20 15:30:10 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 15:30:10 DEBUG - Using proactor: IocpProactor
+2021-09-20 15:30:11 INFO - Started execution
+2021-09-20 15:34:26 INFO - renders request that for form to get data
+2021-09-20 15:34:30 WARNING - Method Not Allowed (POST): /
+2021-09-20 15:34:30 WARNING - Method Not Allowed: /
+2021-09-20 15:35:24 INFO - renders request that for form to get data
+2021-09-20 15:35:26 INFO - renders request that for form to get data
+2021-09-20 15:35:28 WARNING - Method Not Allowed (POST): /
+2021-09-20 15:35:28 WARNING - Method Not Allowed: /
+2021-09-20 15:37:17 INFO - renders request that for form to get data
+2021-09-20 15:37:19 INFO - Started getting data from form
+2021-09-20 15:45:54 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 15:45:54 DEBUG - Using proactor: IocpProactor
+2021-09-20 15:45:54 INFO - Started execution
+2021-09-20 15:46:47 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 15:46:47 DEBUG - Using proactor: IocpProactor
+2021-09-20 15:46:48 INFO - Started execution
+2021-09-20 15:47:04 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 15:47:04 DEBUG - Using proactor: IocpProactor
+2021-09-20 15:47:05 INFO - Started execution
+2021-09-20 15:49:04 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 15:49:04 DEBUG - Using proactor: IocpProactor
+2021-09-20 15:49:05 INFO - Started execution
+2021-09-20 15:56:39 DEBUG - Using proactor: IocpProactor
+2021-09-20 15:56:42 INFO - Started execution
+2021-09-20 15:56:44 INFO - renders request that for form to get data
+2021-09-20 16:00:18 INFO - Started getting data from form
+2021-09-20 16:00:18 INFO - Validated required validations
+2021-09-20 16:00:18 INFO - pushed data to userform table
+2021-09-20 16:00:18 INFO - pushed response to response info table
+2021-09-20 16:00:18 INFO - json formatted data is sent to result.html 
+2021-09-20 17:33:44 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\validations.py changed, reloading.
+2021-09-20 17:33:44 DEBUG - Using proactor: IocpProactor
+2021-09-20 17:33:46 INFO - Started execution
+2021-09-20 17:43:48 INFO - Started getting data from form
+2021-09-20 17:43:48 INFO - Validated required validations
+2021-09-20 17:43:48 INFO - pushed data to userform table
+2021-09-20 17:43:48 INFO - pushed response to response info table
+2021-09-20 17:43:48 INFO - json formatted data is sent to result.html 
+2021-09-20 18:51:17 INFO - C:\Users\kambhampatisahithi\MyProject\first_django_app\views.py changed, reloading.
+2021-09-20 18:51:17 DEBUG - Using proactor: IocpProactor
+2021-09-20 18:51:18 INFO - Started execution

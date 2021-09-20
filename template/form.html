@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Request submission Form</title>
+
+    <style>
+        body {
+          display: flex;
+          height: 100vh;
+          justify-content: center;
+          align-items: center;
+          background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        }
+        .container{
+          max-width: 700px;
+          width: 100%;
+          background: #fff;
+          padding: 25px 30px;
+          border-radius: 20px;
+        }
+        .title{
+          font-size: 30px;
+          font-weight: 500;
+          color: MediumPurple;
+          text-align: center;
+          position: relative;
+        }
+        form .button{
+          border-radius: 10px;
+          text-align: center;
+          color: white;
+          margin: 4px 2px;
+          background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        }
+</style>
+</head>
+<body bgcolor="Lightskyblue">
+   <div class="container">
+   <div class="title">Request submission Form</div>
+   <form action="adddataview" method="post">
+       {% csrf_token %}
+       <h4>First Name : <input type="text" name="fn" placeholder="Enter your firstname"><br><br>
+           Middle Name: <input type="text" name="mn" placeholder="Enter your middlename"><br><br>
+           Last Name: <input type="text" name="ln" placeholder="Enter your lastname"><br><br>
+           Date of Birth: <input type="date" name="dob"><br><br>
+           Gender: <input type="text" name="gen" placeholder="Enter your Gender"><br><br>
+           Nationality: <input type="text" name="natn" placeholder="Enter your nationality"><br><br>
+           State: <input type="text" name="st" placeholder="Enter your state"><br><br>
+           City: <input type="text" name="cty" placeholder="Enter your city"><br><br>
+           Pincode: <input type="text" name="pin" placeholder="Enter your pincode"><br><br>
+           Qualification: <input type="text" name="qfy" placeholder="Enter your qualification"><br><br>
+           Salary: <input type="text" name="sal" placeholder="Enter your salary"><br><br>
+           Pan Number: <input type="text" name="pan" placeholder="Enter your pan number"><br><br></h4>
+
+       <input type="submit" value="Submit" class="button">
+   </form>
+   </div>
+</body>
+</html>
